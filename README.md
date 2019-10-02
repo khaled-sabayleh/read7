@@ -70,6 +70,7 @@ reuse the function (rather than repeating the same set of statements)
 we have a many yype of function :
 1. A BASIC FUNCTION 
 2. declaring function
-3. 
+3. calling a function
+
 
 
